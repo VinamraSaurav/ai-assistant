@@ -1,0 +1,10 @@
+SpeechRecognition
+pyttsx3
+wikipedia
+requests
+google-generativeai
+pyautogui
+pyaudio
+pytube
+python-dotenv
+pyaudio
